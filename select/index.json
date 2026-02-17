@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "夢で逢えたら",
+  "base_artist": "Eiichi Ohtaki",
+  "createdAt": "2026-02-17T14:30:34.693621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢で逢えたら(Solo Version) Blend Mix 2003",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/01_夢で逢えたら(Solo_Version)_Blend_Mix_2003_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "RATS & STAR",
+      "has_synced": false,
+      "path": "select/02_夢で逢えたら_RATS_&_STAR.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/03_夢で逢えたら_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/04_夢で逢えたら_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢で逢えたら アコースティック",
+      "artist": "GING NANG BOYZ",
+      "has_synced": false,
+      "path": "select/05_夢で逢えたら_アコースティック_GING_NANG_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢で逢えたら アコースティック",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/06_夢で逢えたら_アコースティック_銀杏BOYZ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yume De Aetara [夢で逢えたら]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": true,
+      "path": "select/07_Yume_De_Aetara_[夢で逢えたら]_Ging_Nang_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/08_夢で逢えたら_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "吉田美奈子",
+      "has_synced": false,
+      "path": "select/09_夢で逢えたら_吉田美奈子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "CIRCUS",
+      "has_synced": true,
+      "path": "select/10_夢で逢えたら_CIRCUS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "サーカス",
+      "has_synced": true,
+      "path": "select/11_夢で逢えたら_サーカス.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "吉岡 聖恵",
+      "has_synced": true,
+      "path": "select/12_夢で逢えたら_吉岡_聖恵.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "吉岡聖恵",
+      "has_synced": true,
+      "path": "select/13_夢で逢えたら_吉岡聖恵.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "Minako Yoshida",
+      "has_synced": false,
+      "path": "select/14_夢で逢えたら_Minako_Yoshida.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "高橋李依",
+      "has_synced": true,
+      "path": "select/15_夢で逢えたら_高橋李依.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夢で逢えたら",
+      "artist": "Dragon Ash",
+      "has_synced": true,
+      "path": "select/16_夢で逢えたら_Dragon_Ash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢で逢えたら",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_夢で逢えたら_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夢で逢えたら",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_02_夢で逢えたら_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夢で逢えたら",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_03_夢で逢えたら_大滝_詠一.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "夢で逢えたら(Strings Mix)",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_04_夢で逢えたら(Strings_Mix)_大滝_詠一.txt"
+    }
+  ]
+}
